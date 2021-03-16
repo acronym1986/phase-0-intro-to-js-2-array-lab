@@ -4,7 +4,7 @@ const cats = ["Milo", "Otis", "Garfield"];
   
 
 //append cat name to array
-const name = "Ralph";
+
 function destructivelyAppendCat(name) {
    cats.push(name);
    return cats;
